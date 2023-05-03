@@ -1,0 +1,94 @@
+#register_form{
+
+
+
+}
+
+#register_form input{margin-top:8px;}
+
+#register_button{
+    border: 1px solid gray;
+    border-radius: 4px;
+    margin-top:8px;
+    padding:4px;
+    cursor:pointer;
+}
+
+.mujborderred{
+    border:1px solid red;
+
+}
+
+.button_blue{
+    padding:4px;
+    cursor:pointer;
+    background:blue;
+    color:white;
+    width:120px !important;
+    margin-top:10px !important;
+    margin-left:8px !important;
+    border:1px solid gray;
+    border-radius:4px
+}
+
+
+.button{
+    padding:4px;
+    border:1px solid gray;
+    border-radius: 4px;
+    cursor:pointer;
+    margin-left:8px;
+}
+
+
+.comment_container{
+    border:1px solid gray;
+    margin-top:8px !important;
+    padding:0px !important
+}
+
+.comment_author{
+    padding:4px;
+    font-size: 0.7em;
+
+}
+
+
+.comment_content{
+   background: rgba(117,119,55,0.06);
+    padding:4px;
+
+}
+
+.comment_react{
+    margin-left:5px;
+    font-size:0.7em;
+    cursor:pointer;
+
+}
+
+.user-container{
+    padding:0px !important;
+    border:1px solid gray;
+    margin-left: 15px !important;
+    margin-top:4px !important;
+
+}
+
+.user-name-field{
+    margin:0px !important;
+    cursor:pointer;
+
+    background: rgba(9,157,189,0.21);
+
+
+}
+
+.user-delete-field{
+  cursor:pointer;
+    font-size:0.8em;
+
+
+
+
+}
